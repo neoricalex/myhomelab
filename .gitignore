@@ -1,0 +1,8 @@
+packer/packer_cache
+packer/output
+packer/img/ubuntu-22.04-server-cloudimg-amd64.img
+
+vagrant/.cache
+vagrant/.vagrant
+vagrant/nfdos
+vagrant/.sudo_as_admin_successful
